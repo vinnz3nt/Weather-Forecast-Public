@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: weatherforecasting_project
+Version: 0.1.0
+Summary: Autoregressive forecasting the weather in Stockholm
+Author: Vincent Dahlberg
+Requires-Python: >=3.9
+Requires-Dist: torch
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: xarray
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: cdsapi
+Requires-Dist: pyarrow
+Requires-Dist: tqdm
+Requires-Dist: PyYAML
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
